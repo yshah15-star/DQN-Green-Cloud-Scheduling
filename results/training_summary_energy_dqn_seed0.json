@@ -1,0 +1,14 @@
+{
+  "best_val_score": 0.6691275312489738,
+  "random_val_score": 1.2123856951997565,
+  "fcfs_val_score": 1.0,
+  "seconds": 170.47138929367065,
+  "lr": 0.001,
+  "gamma": 0.9,
+  "episodes": 400,
+  "reward_scales": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}

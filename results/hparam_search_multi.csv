@@ -1,0 +1,5 @@
+mode,preset,lr,gamma,episodes,best_val_score
+multi,balanced,0.001,0.9,200,0.9866467721817912
+multi,balanced,0.001,0.95,200,0.9666986598250386
+multi,balanced,0.0003,0.9,200,1.0123851455361537
+multi,balanced,0.0003,0.95,200,1.0321346254882215
